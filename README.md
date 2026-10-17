@@ -39,7 +39,7 @@ Version `0.1.1-20261009`, planned tag [`v0.1.1-20261009`](https://github.com/fin
 
 ## Credits
 
-Made by Astra. Interface prepared with Codex (GPT-6), 2026-10-08. The pet artwork is copied from Astra's Pet Apps.
+Made by Astra. Interface prepared with Codex (GPT-6), 2026-10-08. The pet artwork is copied from Astra's PetOS.
 
 ## Desktop pet update - 2026-10-11
 Astra wears light blue, ash-blonde hair and pale white/yellow halo. Devilish wears red with red horns. Both wear skating dresses. Interaction sheet approved as alternate draft. Desktop artwork status: approved. Manifest: [desktop-pet-20261011.json](desktop-pet-20261011.json). The native companion renders this art; existing browser interface behavior is unchanged. Generated character artwork uses OpenAI image generation; source sheets and derived frames are included where applicable. Public credit: Astra. Integrated by OpenAI Codex (GPT-6).

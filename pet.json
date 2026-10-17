@@ -2,7 +2,7 @@
   "pet": "Mommy's Mommies",
   "kind": "pet-app",
   "owner": "Astra",
-  "job": "Manages Mommy's, the VRChat dance academy and entertainers club, for the Mommies. The pets are the twins from the Mommy's website, Astra and Devilish.",
+  "job": "A local planning room for Mommy's classes and events, with session details, readiness and notes. Calendar and Discord connections are planned.",
   "sprite": "sprite-20261008.json",
   "preview": "mommys-20261008.html",
   "status": "hatching",
@@ -15,11 +15,16 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "updated": "2026-10-09",
   "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08",
   "entry": "mommys-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
-  "desktop_pet": "desktop-pet-20261011.json"
+  "desktop_pet": "desktop-pet-20261011.json",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "Mommy's classes and events",
+    "needs": "a date or teacher confirmed for a session"
+  }
 }
